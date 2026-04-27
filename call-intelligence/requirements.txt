@@ -1,0 +1,13 @@
+streamlit
+openai-whisper
+pyannote.audio
+vaderSentiment
+groq
+scikit-learn
+plotly
+python-dotenv
+torch
+torchaudio
+numpy
+pandas
+pydub
